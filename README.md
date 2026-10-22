@@ -1,18 +1,10 @@
-<div align="center">
-  <img src="./github-profile-banner.png" alt="Abstract navy technology banner with cyan and violet light trails" width="100%" />
-</div>
+<p align="center"><img src="./github-profile-banner.png" alt="Abstract navy technology banner with cyan and violet light trails" width="100%" /></p>
 
-<div align="center">
-
-# Ashutosh Patel
-### UI/UX Designer & Full-Stack Developer
-**Bengaluru, India · Student at BMSIT**
-
-I blend thoughtful interface design with full-stack engineering to build polished, high-performance digital products.
-
-[Portfolio](https://www.ashutoshpatel.me) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/ashutosh-patel2901) &nbsp; · &nbsp; [Email](mailto:ashutoshpatel0044@gmail.com)
-
-</div>
+<h1 align="center">Ashutosh Patel</h1>
+<p align="center"><strong>UI/UX Designer &amp; Full-Stack Developer</strong><br />Bengaluru, India · Computer Science Engineering at BMSIT</p>
+<p align="center">Developer Intern at Fluxvell · GSSoC’26 Contributor · Technical Associate at TEDxBMSITM</p>
+<p align="center">I combine thoughtful interface design, full-stack engineering, and security-minded problem-solving to build useful digital products.</p>
+<p align="center"><a href="https://ashutoshpatel.me">Portfolio</a> · <a href="https://www.linkedin.com/in/ashutosh-patel2901">LinkedIn</a> · <a href="mailto:ashutoshpatel0044@gmail.com">Email</a></p>
 
 ---
 
@@ -63,6 +55,14 @@ I blend thoughtful interface design with full-stack engineering to build polishe
 </tr>
 </table>
 
+## Experience & community
+
+| Role | Organization | Dates |
+| --- | --- | --- |
+| Developer Intern | Fluxvell | Jun 2026 – Present |
+| Open-source Contributor | GirlScript Summer of Code (GSSoC’26) | May 2026 – Present |
+| Technical Associate | TEDxBMSITM | Apr 2026 – Present |
+
 ## What I work on
 
 | UI/UX & visual design | Front-end engineering | Full-stack & product |
@@ -71,16 +71,11 @@ I blend thoughtful interface design with full-stack engineering to build polishe
 
 ## Tech stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,tailwind,framer,gsap,nodejs,supabase,postgres,python,git,github&perline=13" alt="Figma, React, Next.js, TypeScript, Tailwind CSS, Framer Motion, GSAP, Node.js, Supabase, PostgreSQL, Python, Git, and GitHub" />
-</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,tailwind,framer,gsap,nodejs,supabase,postgres&perline=10" alt="Figma, React, Next.js, TypeScript, Tailwind CSS, Framer Motion, GSAP, Node.js, Supabase, and PostgreSQL" /></p>
 
 ## GitHub at a glance
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashu8810&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu8810&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
-</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ashu8810&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" /><br /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu8810&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" /></p>
 
 ## Achievements
 
@@ -93,9 +88,4 @@ I blend thoughtful interface design with full-stack engineering to build polishe
 | 🥈 2nd Runner-up | CryptNite Cyber Security CTF · Manipal Bengaluru |
 | 🥉 3rd Place | Zero Day Arena · VulnX CTF · RNSIT |
 
----
-
-<div align="center">
-  <sub>Design precision. Logical mastery. Building digital experiences with care.</sub><br />
-  <a href="https://www.ashutoshpatel.me/work">Explore all projects →</a>
-</div>
+<p align="center">Design precision. Logical mastery. Building digital experiences with care.<br /><a href="https://ashutoshpatel.me/work">Explore all projects →</a></p>
