@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./github-profile-banner.png" alt="Abstract navy technology banner with cyan and violet light trails" width="100%" />
+</div>
+
+<div align="center">
 
 # Ashutosh Patel
 
