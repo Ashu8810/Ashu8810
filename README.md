@@ -1,9 +1,10 @@
-<p align="center"><img src="./github-profile-banner.png" alt="Abstract navy technology banner with cyan and violet light trails" width="100%" /></p>
+<p align="center"><img src="./github-profile-banner-v2.png" alt="Custom dark navy design-to-code and cybersecurity banner" width="100%" /></p>
 
 <h1 align="center">Ashutosh Patel</h1>
 <p align="center"><strong>UI/UX Designer &amp; Full-Stack Developer</strong><br />Bengaluru, India · Computer Science Engineering at BMSIT</p>
 <p align="center">Developer Intern at Fluxvell · GSSoC’26 Contributor · Technical Associate at TEDxBMSITM</p>
-<p align="center">I combine thoughtful interface design, full-stack engineering, and security-minded problem-solving to build useful digital products.</p>
+<p align="center"><strong>3× CTF podium finisher</strong> · 1 gold · 2 bronze</p>
+<p align="center">I design with intention and build full-stack products with motion, clarity, and care.</p>
 <p align="center"><a href="https://ashutoshpatel.me">Portfolio</a> · <a href="https://www.linkedin.com/in/ashutosh-patel2901">LinkedIn</a> · <a href="mailto:ashutoshpatel0044@gmail.com">Email</a></p>
 
 ---
