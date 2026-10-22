@@ -49,6 +49,18 @@ Building useful AI products and thoughtful web experiences, from first sketch to
 | --- | --- | --- |
 | TypeScript · JavaScript · Next.js · React · Tailwind CSS | Gemini · computer vision · product integrations | CTFs · web security · forensics · OSINT |
 
+
+## Tech stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,git,github&perline=9" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Python, Git, and GitHub" />
+</div>
+
+## GitHub at a glance
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashu8810&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu8810&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
+</div>
+
 ## Recognition
 
 <table>
